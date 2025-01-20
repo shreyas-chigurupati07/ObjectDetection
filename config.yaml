@@ -1,0 +1,7 @@
+path: /Users/shrey/Desktop/Projects/Yolov8/data
+train: images/train
+val: images/train
+
+# Classes
+names:
+  0: alpaca
